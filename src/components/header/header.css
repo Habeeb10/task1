@@ -1,0 +1,45 @@
+.container {
+}
+.con {
+  background-color: #e3edff;
+  width: 50rem;
+  height: 40rem;
+  margin-left: 400px;
+  margin-bottom: 10px;
+}
+.rem {
+  margin-left: 400px;
+}
+.tech {
+  color: blue;
+  font-size: 20px;
+  padding-top: 30px;
+  margin-left: 280px;
+}
+.free {
+  margin-left: 350px;
+  font-size: 20px;
+}
+.img1 {
+  flex-direction: row;
+  display: flex;
+  width: 10px;
+  justify-content: flex-start;
+}
+.con1 {
+  height: 400px;
+  width: 185px;
+  margin-left: 50px;
+}
+.con2 {
+  height: 400px;
+  width: 230px;
+}
+.con3 {
+  height: 400px;
+  width: 210px;
+}
+.con4 {
+  height: 400px;
+  width: 160px;
+      }
